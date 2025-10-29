@@ -1,0 +1,21 @@
+ClientID,ClientName,Location,FloodZone,LastInspectionDate,InfrastructureType,ContactPerson,ContactEmail / Phone,MaterialsNeeded,CostOfProject
+C001,Henny Alkantubig,Wetlands,High,10/19/2024,Floodwall,Frank White,frank@example.com / 555-6789,"Sandbags, Gravel",51551.96
+C002,Brisk Hernan-dip,Wetlands,High,12/24/2024,Levee,Grace Green,grace@example.com / 555-7890,"Bricks, Mortar",363139.62
+C003,Arra Y. Co,Floodplain,Moderate,01/04/2025,Drainage System,Eva Brown,eva@example.com / 555-5678,"PVC Pipes, Valves",332790.15
+C004,Dino Asistyo,Rainford,Severe,07/08/2025,Floodwall,Alice Johnson,alice@example.com / 555-1234,"PVC Pipes, Valves",94069.29
+C005,Rainy Arogantya,Wetlands,Moderate,06/29/2025,Levee,Henry Black,henry@example.com / 555-8901,"Bricks, Mortar",373572.43
+C006,Juju Onggoy,Wetlands,High,02/15/2025,Floodwall,Carol Lee,carol@example.com / 555-3456,"Bricks, Mortar",371287.41
+C007,El Nino Madrona,Hilltown,Severe,03/18/2025,Retention Basin,Henry Black,henry@example.com / 555-8901,"PVC Pipes, Valves",435611.46
+C008,Flooda Robles,Rainford,Low,03/31/2025,Pump Station,Alice Johnson,alice@example.com / 555-1234,"Sandbags, Gravel",109254.3
+C009,Marcy Tubigoro,Dryville,Moderate,06/08/2025,Drainage System,Ivy Adams,ivy@example.com / 555-9012,"Bricks, Mortar",240107.28
+C010,Nickanor Bribones,Wetlands,High,05/14/2025,Levee,Ivy Adams,ivy@example.com / 555-9012,"Bricks, Mortar",401748.79
+C011,Patik Mikel Vargaz,Bayview,High,10/12/2024,Floodwall,Ivy Adams,ivy@example.com / 555-9012,"PVC Pipes, Valves",250264.82
+C012,Ramen Rumulo,Dryville,High,07/13/2025,Retention Basin,Frank White,frank@example.com / 555-6789,"PVC Pipes, Valves",157819.02
+C013,Mitchy Kalayon-Oy,Dryville,High,08/23/2025,Levee,Alice Johnson,alice@example.com / 555-1234,"PVC Pipes, Valves",257769.86
+C014,Errik Yapak,Floodplain,Moderate,02/23/2025,Levee,Jack Turner,jack@example.com / 555-0123,"Bricks, Mortar",418945.61
+C015,Franz Eskandalo,Lakeside,High,02/14/2025,Drainage System,David Kim,david@example.com / 555-4567,"PVC Pipes, Valves",453629.98
+C016,Rainy Arogantya,Lakeside,High,05/07/2025,Levee,Grace Green,grace@example.com / 555-7890,"Bricks, Mortar",194558.8
+C017,Marky All-in Araybaho,Riverdale,High,05/31/2025,Floodwall,Grace Green,grace@example.com / 555-7890,"Concrete, Steel",128035.24
+C018,Juan Carlo,Hilltown,Low,02/04/2025,Pump Station,Frank White,frank@example.com / 555-6789,"Earth Fill, Geotextiles",353242.03
+C019,Jane Doe,Greenfield,Moderate,01/14/2025,Retention Basin,Carol Lee,carol@example.com / 555-3456,"Concrete, Steel",431278.13
+C020,Alice Johnson,Bayview,High,12/26/2024,Floodwall,Henry Black,henry@example.com / 555-8901,"Concrete, Steel",235400.04

@@ -1,0 +1,6 @@
+name|age|color
+ana|12|yellow
+gerry|17|red
+tom|20|pink
+shay|10|blue
+mac|24|red

@@ -1,0 +1,10 @@
+--index-url https://artifactory.factset.com/artifactory/api/pypi/python/simple
+jupyter
+openai 
+langchain
+langchain_openai 
+langchain_core
+
+langchain-community
+langgraph
+pyowm
